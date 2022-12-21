@@ -3,7 +3,7 @@ Bitcoin Price Prediction
 
 2 columns are presnt in this Data Date column and Price Column
 
-With this we found out next 30 days Bitcoin Price
+With this dataset, we found out next 30-days Bitcoin Price
 
 Steps Involved in this:
 
@@ -12,4 +12,4 @@ Steps Involved in this:
 3. Converted data frame into numpy array.
 4. Separated X and Y variables
 5. Using train test split splited the X and Y variables in 8:2 ratio
-6. Using SVM regression model predicted the bitcoin price for next 30 days
+6. Using SVM regression model predicted the bitcoin price for the next 30 days
